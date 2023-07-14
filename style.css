@@ -2,6 +2,10 @@
     font-family: League Spartan;
     src: url(LeagueSpartan-VariableFont_wght.ttf);
 }
+body{
+    display:flex;
+    flex-direction:column;
+}
 *{
     font-family: League Spartan ;
     margin: 0;
