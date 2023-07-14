@@ -6,6 +6,13 @@ body{
     display:flex;
     flex-direction:column;
 }
+header{
+    height:1rem;
+    width:100vw;
+}
+footer{
+    padding:1rem;
+}
 *{
     font-family: League Spartan ;
     margin: 0;
